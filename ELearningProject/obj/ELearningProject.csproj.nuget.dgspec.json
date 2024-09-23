@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Zack River\\source\\repos\\ELearningProject\\ELearningProject.csproj": {}
+    "C:\\Users\\Zack River\\Desktop\\ZAIN42-24\\ELearningProject\\ELearningProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Zack River\\source\\repos\\ELearningProject\\ELearningProject.csproj": {
+    "C:\\Users\\Zack River\\Desktop\\ZAIN42-24\\ELearningProject\\ELearningProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Zack River\\source\\repos\\ELearningProject\\ELearningProject.csproj",
+        "projectUniqueName": "C:\\Users\\Zack River\\Desktop\\ZAIN42-24\\ELearningProject\\ELearningProject.csproj",
         "projectName": "ELearningProject",
-        "projectPath": "C:\\Users\\Zack River\\source\\repos\\ELearningProject\\ELearningProject.csproj",
+        "projectPath": "C:\\Users\\Zack River\\Desktop\\ZAIN42-24\\ELearningProject\\ELearningProject.csproj",
         "packagesPath": "C:\\Users\\Zack River\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Zack River\\source\\repos\\ELearningProject\\obj\\",
+        "outputPath": "C:\\Users\\Zack River\\Desktop\\ZAIN42-24\\ELearningProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Zack River\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,6 +45,38 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

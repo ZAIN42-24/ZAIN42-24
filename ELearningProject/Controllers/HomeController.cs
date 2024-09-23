@@ -54,7 +54,7 @@ namespace ELearningProject.Controllers
         {
             return View();
         }
-        public IActionResult SignUp()
+        public IActionResult Register()
         {
             return View();
         }
