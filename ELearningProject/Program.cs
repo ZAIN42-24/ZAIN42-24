@@ -10,7 +10,7 @@ builder.Services.AddControllersWithViews();
 var con = builder.Configuration.GetConnectionString("Mycon");
 builder.Services.AddDbContext<AppDbContext>(option => option.UseSqlServer(con));
 
-builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
+builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = false)
     .AddRoles<IdentityRole>()
     .AddEntityFrameworkStores<AppDbContext>();
 
