@@ -59,15 +59,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ELearningProject",
+              "Title": "ELearningProject.csproj",
               "DocumentMoniker": "C:\\Users\\Zack River\\Desktop\\ZAIN42-24\\ELearningProject\\ELearningProject.csproj",
               "RelativeDocumentMoniker": "ELearningProject.csproj",
               "ToolTip": "C:\\Users\\Zack River\\Desktop\\ZAIN42-24\\ELearningProject\\ELearningProject.csproj",
               "RelativeToolTip": "ELearningProject.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-23T19:41:54.103Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T19:41:54.103Z"
             },
             {
               "$type": "Document",
@@ -79,8 +78,7 @@
               "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T19:32:27.633Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T19:32:27.633Z"
             },
             {
               "$type": "Document",
@@ -92,8 +90,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T19:23:13.834Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T19:23:13.834Z"
             },
             {
               "$type": "Document",
@@ -105,8 +102,7 @@
               "RelativeToolTip": "..\\..\\Essentials In Any Project\\RolesController.cs",
               "ViewState": "AgIAAC0AAAAAAAAAAAAAAEkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T17:56:17.579Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T17:56:17.579Z"
             },
             {
               "$type": "Document",
@@ -118,8 +114,7 @@
               "RelativeToolTip": "Controllers\\RolesController.cs",
               "ViewState": "AgIAACAAAAAAAAAAAAAswDEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T17:55:34.152Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T17:55:34.152Z"
             },
             {
               "$type": "Document",
@@ -131,8 +126,7 @@
               "RelativeToolTip": "Models\\RoleViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T17:53:06.506Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T17:53:06.506Z"
             },
             {
               "$type": "Document",
@@ -144,8 +138,7 @@
               "RelativeToolTip": "Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T15:01:28.902Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T15:01:28.902Z"
             }
           ]
         }
