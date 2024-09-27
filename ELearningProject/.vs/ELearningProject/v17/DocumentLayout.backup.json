@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Zack River\\Desktop\\ZAIN42-24\\ELearningProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5915306C-8999-4169-803A-661307685BC4}|ELearningProject.csproj|c:\\users\\zack river\\desktop\\zain42-24\\elearningproject\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5915306C-8999-4169-803A-661307685BC4}|ELearningProject.csproj|solutionrelative:areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5915306C-8999-4169-803A-661307685BC4}|ELearningProject.csproj|c:\\users\\zack river\\desktop\\zain42-24\\elearningproject\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5915306C-8999-4169-803A-661307685BC4}|ELearningProject.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5915306C-8999-4169-803A-661307685BC4}|ELearningProject.csproj|c:\\users\\zack river\\desktop\\zain42-24\\elearningproject\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5915306C-8999-4169-803A-661307685BC4}|ELearningProject.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5915306C-8999-4169-803A-661307685BC4}|ELearningProject.csproj|c:\\users\\zack river\\desktop\\zain42-24\\elearningproject\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5915306C-8999-4169-803A-661307685BC4}|ELearningProject.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5915306C-8999-4169-803A-661307685BC4}|ELearningProject.csproj|c:\\users\\zack river\\desktop\\zain42-24\\elearningproject\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5915306C-8999-4169-803A-661307685BC4}|ELearningProject.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5915306C-8999-4169-803A-661307685BC4}|ELearningProject.csproj|c:\\users\\zack river\\desktop\\zain42-24\\elearningproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5915306C-8999-4169-803A-661307685BC4}|ELearningProject.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5915306C-8999-4169-803A-661307685BC4}|ELearningProject.csproj|c:\\users\\zack river\\desktop\\zain42-24\\elearningproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5915306C-8999-4169-803A-661307685BC4}|ELearningProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5915306C-8999-4169-803A-661307685BC4}|ELearningProject.csproj|c:\\users\\zack river\\desktop\\zain42-24\\elearningproject\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5915306C-8999-4169-803A-661307685BC4}|ELearningProject.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5915306C-8999-4169-803A-661307685BC4}|ELearningProject.csproj|c:\\users\\zack river\\desktop\\zain42-24\\elearningproject\\services\\emailsenderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -41,24 +57,72 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Zack River\\Desktop\\ZAIN42-24\\ELearningProject\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Zack River\\Desktop\\ZAIN42-24\\ELearningProject\\Views\\Shared\\_Layout.cshtml*",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml*",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFUAAABbAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Zack River\\Desktop\\ZAIN42-24\\ELearningProject\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\Zack River\\Desktop\\ZAIN42-24\\ELearningProject\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAkwHUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T19:34:41.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zack River\\Desktop\\ZAIN42-24\\ELearningProject\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Zack River\\Desktop\\ZAIN42-24\\ELearningProject\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-24T22:27:05.724Z",
+              "WhenOpened": "2024-09-26T19:21:59.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zack River\\Desktop\\ZAIN42-24\\ELearningProject\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "C:\\Users\\Zack River\\Desktop\\ZAIN42-24\\ELearningProject\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T19:08:51.286Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zack River\\Desktop\\ZAIN42-24\\ELearningProject\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Zack River\\Desktop\\ZAIN42-24\\ELearningProject\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T18:49:17.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zack River\\Desktop\\ZAIN42-24\\ELearningProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Zack River\\Desktop\\ZAIN42-24\\ELearningProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T22:27:05.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "EmailSenderService.cs",
               "DocumentMoniker": "C:\\Users\\Zack River\\Desktop\\ZAIN42-24\\ELearningProject\\Services\\EmailSenderService.cs",
               "RelativeDocumentMoniker": "Services\\EmailSenderService.cs",
@@ -66,38 +130,35 @@
               "RelativeToolTip": "Services\\EmailSenderService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T19:43:35.519Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T19:43:35.519Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Register.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Zack River\\Desktop\\ZAIN42-24\\ELearningProject\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "ToolTip": "C:\\Users\\Zack River\\Desktop\\ZAIN42-24\\ELearningProject\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAYwEcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T19:32:27.633Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Zack River\\Desktop\\ZAIN42-24\\ELearningProject\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Zack River\\Desktop\\ZAIN42-24\\ELearningProject\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABrAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T19:23:13.834Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T19:32:27.633Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Zack River\\Desktop\\ZAIN42-24\\ELearningProject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Zack River\\Desktop\\ZAIN42-24\\ELearningProject\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T19:23:13.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "RolesController.cs",
               "DocumentMoniker": "C:\\Users\\Zack River\\Desktop\\Essentials In Any Project\\RolesController.cs",
               "RelativeDocumentMoniker": "..\\..\\Essentials In Any Project\\RolesController.cs",
@@ -105,12 +166,11 @@
               "RelativeToolTip": "..\\..\\Essentials In Any Project\\RolesController.cs",
               "ViewState": "AgIAAC0AAAAAAAAAAAAAAEkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T17:56:17.579Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T17:56:17.579Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "RolesController.cs",
               "DocumentMoniker": "C:\\Users\\Zack River\\Desktop\\ZAIN42-24\\ELearningProject\\Controllers\\RolesController.cs",
               "RelativeDocumentMoniker": "Controllers\\RolesController.cs",
@@ -118,12 +178,11 @@
               "RelativeToolTip": "Controllers\\RolesController.cs",
               "ViewState": "AgIAACAAAAAAAAAAAAAswDEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T17:55:34.152Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T17:55:34.152Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "RoleViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Zack River\\Desktop\\ZAIN42-24\\ELearningProject\\Models\\RoleViewModel.cs",
               "RelativeDocumentMoniker": "Models\\RoleViewModel.cs",
@@ -135,7 +194,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Zack River\\Desktop\\ZAIN42-24\\ELearningProject\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
@@ -143,8 +202,7 @@
               "RelativeToolTip": "Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T15:01:28.902Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T15:01:28.902Z"
             }
           ]
         }
